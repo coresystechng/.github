@@ -4,7 +4,9 @@
 
   $welcome_slogan = "...enabling digital solutions.";
 
-  $welcome_message = "We are a dynamic web development startup, driven by innovation and creativity. Our team is largely composed of young, aspiring software engineering and computer science students from various tertiary institutions in Nigeria, as well as talented interns, who bring fresh perspectives and a passion for building content for the web."
+  $welcome_message = "We are a dynamic web development startup, driven by innovation and creativity.
+                      Our team is largely composed of young, aspiring software engineering and computer science students from various tertiary institutions in Nigeria,
+                      as well as talented interns, who bring fresh perspectives and a passion for building content for the web."
   
   $date_established = 2021;
   
